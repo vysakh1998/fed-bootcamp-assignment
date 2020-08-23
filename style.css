@@ -3,20 +3,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400&display=swap');
 
 h1 {
-    font-size: 5em;
+    font-size: 4em;
     color: white;
     font-family: "Rubik", sans-serif;
 }
 
 h3 {
-    font-size: 1.8em;
+    font-size: 1.5em;
     color: white;
     font-weight: 100;
-    margin-bottom: -20px;
+    margin-bottom: -10px;
 }
 
 #name {
-    font-size: 40px;
+    font-size: 30px;
     color: rgb(0, 0, 0);
     font-weight: normal;
 }
@@ -28,15 +28,20 @@ span {
 
 p {
     color: gray;
-    font-size: 25px;
+    font-size: 20px;
     text-align: center;
+}
+
+#ch2 {
+    font-size: 20px;
 }
 
 #para1 {
     color: white;
-    font-size: 25px;
+    font-size: 16px;
     text-align: center;
-    margin-top: -20px;
+    margin-top: -10px;
+    font-family: "Rubik";
 
 
 }
@@ -56,7 +61,7 @@ p {
 .logo {
     width: 150px;
     margin-right: 1rem;
-    margin-left: 200px;
+    margin-left: 100px;
 }
 
 .nav-link {
@@ -80,11 +85,11 @@ nav ul {
 }
 
 nav ul li {
-    margin: 0 30px;
+    margin: 0 20px;
 }
 
 nav {
-    margin-right: 200px;
+    margin-right: 10px;
 }
 
 .hpart2 {
@@ -98,13 +103,12 @@ nav {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-left: 300px;
+
 }
 
 .image1 {
     display: flex;
-    align-items: center;
-    margin-right: 300px;
+
 }
 
 .button-1 {
@@ -136,7 +140,7 @@ nav {
 }
 
 .photo1 img {
-    width: 700px;
+    width: 400px;
     border-radius: 10px;
 }
 
@@ -144,7 +148,7 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 550px;
+    margin-left: 300px;
     margin-top: 30px;
     margin-bottom: 100px;
 }
@@ -157,14 +161,16 @@ nav {
     border-radius: 10px;
     border-width: 6em;
     border-color: black;
-    margin-left: -100px;
-    height: 700px;
+    margin-left: -40px;
+    height: 500px;
+    margin-top: -50px;
+
 
 
 }
 
 .div2 h2 {
-    font-size: 40px;
+    font-size: 10px;
     padding: 0 10px 0 100px;
 }
 
@@ -175,7 +181,7 @@ nav {
     color: gray;
     text-align: justify;
     line-height: 1.8;
-    font-size: 25px;
+    font-size: 16px;
     padding: 0 80px 0 100px;
     font-family: "Rubik";
     font-weight: 20px;
@@ -191,9 +197,6 @@ nav {
 
 
 
-.div0 {
-    background-image: url("fed-bootcamp-assignment\assets\pexels-photo-452738.jpeg")
-}
 
 #sec2 {
     display: flex;
@@ -226,6 +229,8 @@ nav {
     text-align: center;
     margin-top: -20px;
     margin-bottom: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
 
 }
 
@@ -260,7 +265,6 @@ nav {
 
 .sec3 {
     background-color: whitesmoke;
-    height: 100em;
     margin-top: -70px;
 
 }
@@ -274,6 +278,7 @@ nav {
 #h1-sec3 {
     text-align: center;
     color: black;
+    margin-top: 50px;
 
 }
 
@@ -289,9 +294,10 @@ nav {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 200px;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
 }
 
 .div4-1-1 {
@@ -303,13 +309,13 @@ nav {
     border-radius: 10px;
     border-width: 10em;
     background-color: white;
-    height: 1000px;
+    height: 600px;
 }
 
 #face1 {
-    width: 350px;
+    width: 200px;
     border-radius: 150px;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .div4-1-2 {
@@ -323,13 +329,13 @@ nav {
     margin-top: 10px;
     margin-right: 200px;
     margin-left: 200px;
-    height: 1000px;
+    height: 600px;
 }
 
 #face2 {
-    width: 300px;
+    width: 200px;
     border-radius: 50%;
-    margin-top: 30px;
+    margin-top: 20px;
 
 }
 
@@ -341,41 +347,43 @@ nav {
     border-color: gray;
     border-radius: 10px;
     background-color: white;
-    height: 1000px;
+    height: 600px;
 }
 
 #face3 {
-    width: 350px;
+    width: 200px;
     border-radius: 150px;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 #p1 {
     text-align: center;
-    font-size: 30px;
+    font-size: 16px;
     color: gray;
     padding: 0 20px 0 20px;
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 30px;
     color: black;
     font-weight: normal;
 }
 
 #ch3 {
     color: gray;
+    font-size: 16px;
 
 }
 
 footer {
+
     background-color: rgb(51, 42, 42);
 }
 
 .divfoo {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     align-items: center;
 }
 
@@ -383,34 +391,33 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 60px;
-
-
-
 }
 
 .divfoo2 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: -80px;
+    margin-top: -120px;
 }
 
 .divfoo3 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: -70px;
-
+    margin-top: -90px;
+    margin-right: 50px;
 }
 
 .input {
     display: flex;
     flex-direction: row;
-    padding-right: 500px;
-    padding-left: 500px;
     cursor: pointer;
+    margin-right: 100px;
+    margin-left: 100px
+}
 
+#arrow {
+    cursor: pointer;
 }
 
 #bimage {
@@ -420,4 +427,8 @@ footer {
 
 #icon {
     width: 60px;
+}
+
+#youtube {
+    width: 100px;
 }
